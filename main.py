@@ -12,7 +12,7 @@ snake = [[1,1],[2,1],[3,1]]
 perdu = False
 frame=-1
 
-init_window(800, 450, "Jeu du Serpent 🐍")
+init_window(800, 450, "Jeu du Serpent")
 set_target_fps(60)
 
 
