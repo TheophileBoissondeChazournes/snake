@@ -7,5 +7,3 @@ requires-python = ">=3.13"
 dependencies = [
     "raylib>=5.5.0.3",
 ]
-
-
